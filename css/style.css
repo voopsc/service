@@ -1,0 +1,56 @@
+body {
+  font: normal 400 16px/1.5 "Montserrat", Arial, Helvetica, sans-serif;
+}
+
+a {
+  color: inherit;
+}
+
+header,
+aside,
+nav,
+footer,
+section,
+article,
+div,
+ul,
+ol,
+li,
+form,
+fieldset,
+label,
+input,
+textarea,
+legend,
+table,
+thead,
+tbody,
+th,
+tr,
+td {
+  box-sizing: border-box;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+span,
+a,
+small {
+  box-sizing: border-box;
+}
+
+p {
+  font: normal 400 1em/1.5 "Montserrat", Arial, Helvetica, sans-serif;
+}
+
+.wrapper,
+.flex {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+}
